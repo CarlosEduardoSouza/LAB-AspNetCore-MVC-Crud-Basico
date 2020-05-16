@@ -1,6 +1,6 @@
 # Projeto 
 
-Projeto Asp Net / MVC Core utilizando Identity
+Projeto Asp Net Core / Crud Básico MVC
 
 ## Objetivo
 
@@ -9,9 +9,12 @@ Projeto Asp Net / MVC Core utilizando Identity
 
 ## Tecnologias Utilizadas
 
-*  Asp Net Core 2.2
-*  Identity
+*  Asp Net Core 2.2 MVC
 *  Entity Framework Core
+*  Identity
+*  Bootstrap
+*  Css, HTML 5, Javascript e Jquery
+
 
 
 ### Autor
@@ -19,5 +22,5 @@ Projeto Asp Net / MVC Core utilizando Identity
 Carlos Eduardo de Souza
 
 ```
-Data: 15/05/2020
+Data: 10/05/2020
 ```
